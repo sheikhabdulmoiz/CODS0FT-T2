@@ -7,7 +7,7 @@ This repository showcases the Android project I completed during my CodSoft inte
 - React Native framework
 - API integration for fetching daily inspirational quotes
 - React Navigation for app navigation
-- Expo for efficient app development
+- CLI for efficient app development
 - External share and clipboard libraries for enhanced functionality
 - Self-idea UI/UX design for an appealing user interface
 
