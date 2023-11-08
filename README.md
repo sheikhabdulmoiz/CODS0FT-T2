@@ -1,4 +1,4 @@
-# CodSoft Task 02 - Quote App
+# CodSoft Task 02 - Quote App (Android Development)
 
 This repository showcases the Android project I completed during my CodSoft internship - the Quote App. It's an application built using React Native and a range of technologies.
 
